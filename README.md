@@ -1,2 +1,2 @@
 # Cybersecurity_Journey
-Just wanna have a standing 
+Documenting my journey to becoming a Cloud & AI Security Engineer.
