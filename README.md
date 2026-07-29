@@ -1,2 +1,8 @@
-# Cybersecurity_Journey
-linux/read.me
+Cybersecurity_Journey/
+├── Linux/
+├── Networking/
+├── Python/
+├── TryHackMe/
+├── Projects/
+├── Notes/
+└── Resources/
