@@ -6,3 +6,4 @@ Cybersecurity_Journey/
 ├── Projects/
 ├── Notes/
 └── Resources/
+Testing GitHub connection.
